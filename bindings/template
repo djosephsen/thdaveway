@@ -1,0 +1,5 @@
+        "ip_%EXT%": {
+          "ehlo_hostname": "%URL%",
+          "private_ip": "%INT%",
+          "public_ip": "%EXT%"
+        },
